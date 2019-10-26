@@ -1,0 +1,1 @@
+This program builds on Program 1B and transforms the basics of the application to a GUI. The program allows users to add Addresses and Letters to lists using the "Insert" menu item. Then, users can click the "Report" menu item to list the Addresses or Letters into a textbox on the main form.
