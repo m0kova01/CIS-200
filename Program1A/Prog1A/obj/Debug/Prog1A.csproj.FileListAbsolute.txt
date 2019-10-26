@@ -1,0 +1,7 @@
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\bin\Debug\Prog0.exe.config
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\bin\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\bin\Debug\Prog0.pdb
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\obj\Debug\Prog1A.csprojAssemblyReference.cache
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\obj\Debug\Prog1A.csproj.CoreCompileInputs.cache
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\obj\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog1A\Prog1A\Prog1A\obj\Debug\Prog0.pdb
