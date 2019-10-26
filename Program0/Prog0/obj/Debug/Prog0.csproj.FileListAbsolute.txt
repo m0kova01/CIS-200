@@ -1,0 +1,13 @@
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\bin\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\bin\Debug\Prog0.pdb
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\obj\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\obj\Debug\Prog0.pdb
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+D:\Louisville\Fall 2019\CIS 200\Programs\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
