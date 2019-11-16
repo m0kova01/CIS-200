@@ -1,0 +1,1 @@
+Program 3 adds more functionality to the application. Users can now edit existing addresses to update the information. The application also implements object serialization, allowing users to open and save lists of addresses and parcels.
